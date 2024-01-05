@@ -4,32 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="530cf093-b75f-4d51-a2ce-7d7c96967ecf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/answers/answers.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carracing/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carracing/Racing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carracing/SpeedInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carracing/printscreen/racingcar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/evenandodd/EvenAndOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/evenandodd/printscreen/evenandodd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/multithread/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/multithread/MultiThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/multithread/SumCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/multithread/printscreen/multithread.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/softskills/softskills.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/threads/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/threads/printscreen/Threads.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/twothreads/TwoThreads.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/twothreads/printscreen/TwoThreads.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+    <list default="true" id="530cf093-b75f-4d51-a2ce-7d7c96967ecf" name="Changes" comment="add hw">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +72,19 @@
       <option name="presentableId" value="Default" />
       <updated>1704355222055</updated>
     </task>
+    <task id="LOCAL-00001" summary="add hw">
+      <option name="closed" value="true" />
+      <created>1704378368748</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704378368748</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add hw" />
+    <option name="LAST_COMMIT_MESSAGE" value="add hw" />
   </component>
 </project>

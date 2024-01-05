@@ -14,12 +14,8 @@ public class Main {
             }
 
             for (int i = 0; i < 10; i++) {
-                System.out.println("Поток 1");
-                try {
-                    Thread.sleep(500);
-                } catch (InterruptedException e) {
-                    System.err.println("Произошло исключение: " + e.getMessage());
-                }
+                System.out.println("Поток 1 работает");
+
             }
 
             System.out.println("Поток 1 завершил работу");
@@ -33,7 +29,7 @@ public class Main {
             System.out.println("Поток 2 начал работу");
 
             for (int i = 0; i < 10; i++) {
-                System.out.println("Поток 2");
+                System.out.println("Поток 2 работает");
                 try {
                     Thread.sleep(500);
                 } catch (InterruptedException e) {
